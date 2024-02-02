@@ -98,6 +98,7 @@ Missing a conference, seeing an issue or something needs an update? Send a pull 
 | [Developer Week (DWX)](https://www.developer-week.de/) | Nuremberg, Germany | no | 1-5 July 2024 | - |
 | [UberConf](https://uberconf.com/) | Denver, CO, USA | yes | July 16-19, 2024 | [Link](https://uberconf.com/app/speaker-request) |
 | [JConf Dominicana](https://jconfdominicana.org/) | Santiago de los Caballeros, Dominican Republic | no | July 19-20, 2024 | [Link](https://www.papercall.io/jconf-dominicana-2024) (Closes March 6th) |
+| [JCONF.DEV](https://2024.jconf.dev/) | Dallas, TX, USA | September 24-26, 2024 |
 
 ## Additions, Changes, Corrections?
 
